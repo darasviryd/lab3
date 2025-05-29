@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "lab3",
+    "slug": "lab3",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "jsEngine": "jsc",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.anonymous.lab3"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.lab3"
+    }
+  }
+}
